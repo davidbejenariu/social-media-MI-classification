@@ -1,0 +1,6 @@
+Călin Andrei: Preprocessing of the data + determining the best extractor + RF and SVC
+Bejenariu David-Cosmin: Implemented RNN deep-learning approach
+Ionut-Valentin Bălu: GradientBoostingClassifier, XGBoost, LightGBM
+Serafim Alex-Mihai: Implemented pre-trained BERT method & Integrated Gradients method for interpretability
+
+Equal contributions on documentation and presentation.
